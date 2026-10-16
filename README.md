@@ -1,3 +1,3 @@
 # 3D-Printed-Stackable-Gearbox
 
-<img width="600" alt="Title2" src="https://github.com/user-attachments/assets/801dd570-5d3f-4221-bde5-029c0b14627f" />
+<img width="600" alt="Title" src="https://github.com/user-attachments/assets/3a1a7b0f-9558-4448-8148-8ecea9d73cfb" />
