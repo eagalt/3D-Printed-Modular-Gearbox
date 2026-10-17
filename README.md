@@ -13,5 +13,5 @@
 <br><br><br>
 
 <p align="center">
-        <img width="100%" alt="Horizontal_4" src="https://github.com/user-attachments/assets/41cb94db-e3ec-4144-99b1-fbbaadd63ba0" />
+        <img width="100%" alt="Horizontal_4" src="https://github.com/user-attachments/assets/3366c385-2427-446c-bfad-0d067e537043" />
 </p>
