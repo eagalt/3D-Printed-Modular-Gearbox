@@ -11,8 +11,8 @@
         <img width="550" alt="Exploded" src="https://github.com/user-attachments/assets/c48e2b5c-b700-403b-a6da-dcb4e41e4b4e" />
 </p>
 
-<br><br>
+<br><br><br>
 
 <p align="center">
-        <img width="550" alt="Horizontal_2" src="https://github.com/user-attachments/assets/112f326f-f428-4e8c-a0f5-f8b039b5ea91" />
+        <img width="450" alt="Horizontal_2" src="https://github.com/user-attachments/assets/112f326f-f428-4e8c-a0f5-f8b039b5ea91" />
 </p>
