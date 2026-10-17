@@ -1,7 +1,6 @@
-# 3D-Printed-Stackable-Gearbox
 <img width="50%" alt="Title3" src="https://github.com/user-attachments/assets/6ca6729a-0427-41d5-966c-a04e7c77102a" />
 
-<br>
+<br><br>
 
 > **A 3D-printable, high-torque modular planetary gearbox system designed for robotics and DIY automation.**
 
@@ -14,5 +13,11 @@
 <br><br><br>
 
 <p align="center">
-        <img width="80%" alt="Horizontal_2" src="https://github.com/user-attachments/assets/ae4f96d1-bee3-432f-82fb-a7c9354eba4b" />
+        <img width="45%" alt="Horizontal_2" src="https://github.com/user-attachments/assets/9f41113c-c9b0-421f-bc27-66cde3a4d67b" />
+</p>
+
+<br><br><br>
+
+<p align="center">
+        <img width="100%" alt="Horizontal_4" src="https://github.com/user-attachments/assets/41cb94db-e3ec-4144-99b1-fbbaadd63ba0" />
 </p>
