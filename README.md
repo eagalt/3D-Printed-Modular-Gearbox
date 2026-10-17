@@ -1,15 +1,15 @@
 <div align="center">
         
-# 3D Printed Modular Gearbox
+## 3D Printed Modular Gearbox
 </div>
 
 <p align="center">
-        <img width="60%" alt="Title3" src="https://github.com/user-attachments/assets/2c9c63a0-57f4-431a-9708-8ee3aa97b631" />
+        <img width="60%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26" />
 </p>
 
 <br><br>
 
-# Project breakdown
+## Project breakdown
 
 **A 3D-printable, high-torque modular planetary gearbox system designed for robotics and DIY automation.**
 
