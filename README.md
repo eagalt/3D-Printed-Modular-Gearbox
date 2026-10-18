@@ -20,11 +20,11 @@ Compatible with **NEMA 17** motors.
 <br>
 
 <p align="left">
-        <img width="40%" alt="Horizontal_5" src="https://github.com/user-attachments/assets/5d0bbc81-3a83-4011-a89a-afa3a0c9ac17" />
+        <img width="40%" alt="Horizontal_5" src="https://github.com/user-attachments/assets/bde3c76d-7474-4b57-a0f2-e468e4dc255e" />
 </p>
 
 <p align="center">
-        <img width="100%" alt="Horizontal_4" src="https://github.com/user-attachments/assets/3366c385-2427-446c-bfad-0d067e537043" />
+        <img width="100%" alt="Horizontal_6" src="https://github.com/user-attachments/assets/df4e25fc-167d-4618-9b7c-3a89484886c9" />
 </p>
 
 <br><br><br>
