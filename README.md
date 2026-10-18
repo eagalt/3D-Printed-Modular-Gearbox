@@ -8,7 +8,6 @@
 <p align="center">
         <img width="60%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26" />
 </p>
-
 <div align="center">
         
 A 3D-printable, ~~high-torque~~ modular planetary gearbox system designed for **robotics and DIY automation.**
@@ -18,6 +17,7 @@ Compatible with **NEMA 23** motors.
 </div>
 
 <br>
+
 <p align="left">
         <img width="40%" alt="Horizontal_5" src="https://github.com/user-attachments/assets/bde3c76d-7474-4b57-a0f2-e468e4dc255e" />
 </p>
@@ -34,6 +34,11 @@ Built as a fun engineering project to test the capability of **3D printed modula
 - Printed in **ABS**
 
 <br>
+
+<p align="center">
+        <img width="40%" alt="Vertical_1" src="https://github.com/user-attachments/assets/dbdc7947-dba4-425e-ae4e-7c2856130255" />
+</p>
+
 
 # How it works
 
