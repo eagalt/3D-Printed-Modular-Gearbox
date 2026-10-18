@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-        <img width="60%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26" />
+        <img width="60%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26" style="min-width: 600px;"/>
 </p>
 <div align="center">
         
@@ -34,11 +34,6 @@ Built as a fun engineering project to test the capability of **3D printed modula
 - Printed in **ABS**
 
 <br>
-
-<p align="center">
-        <img width="40%" alt="Vertical_1" src="https://github.com/user-attachments/assets/dbdc7947-dba4-425e-ae4e-7c2856130255" />
-</p>
-
 
 # How it works
 
