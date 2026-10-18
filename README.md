@@ -13,7 +13,7 @@
         
 A 3D-printable, high-torque modular planetary gearbox system designed for **robotics and DIY automation.**
 
-Compatible with **NEMA 17** motors.
+Compatible with **NEMA 23** motors.
 
 </div>
 <br>
