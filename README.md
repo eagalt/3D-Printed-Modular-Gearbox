@@ -1,6 +1,6 @@
 <div align="center">
         
-## 3D Printed Stackable Gearbox
+## 3D Printed Stackable Gearbox ⚙️
 </div>
 
 <br>
@@ -10,7 +10,7 @@
 </p>
 <div align="center">
         
-A 3D-printable, ~~high-torque~~ modular planetary gearbox system designed for **robotics and DIY automation.**
+A 3D-printable, high-torque modular planetary gearbox system designed for **robotics and DIY automation.**
 
 Compatible with **NEMA 23** motors.
 
@@ -28,32 +28,48 @@ Compatible with **NEMA 23** motors.
 
 <br>
 
-# Introduction
-Built as a fun engineering project to test the capability of **3D printed modular stages** for a planetary gearbox, while maintaining a small form-factor.
-- Designed in **Solidworks** and sliced in **Orcaslicer**
-- Printed in **ABS**
+
+### 🧾 Table of contents:
+- [📜 Introduction](#introduction)
+- [🤔 How it works](#how_it_works)
+- [⚙️ Technical Specification](#technical_specification)
+- [🪛 Gearbox breakdown](#gearbox_breakdown)
+
+<br><br>
+
+## 📜 Introduction
+Built as a fun engineering project to test the capability of **3D printed modular stages** for a planetary gearbox, while maintaining a **small form-factor**.
+- **Designed in Solidworks**
+- **Printed in ABS**
 
 <br>
 
-# How it works
+## 🤔 How it works
 
 This modular gearbox consists of **3 main parts:**
 
-| Stage | Purpose |
-| --- | --- |
-| Base stage | Designed to fit on motors of varying shaft length |
-| Modular stage | **Stackable** stage of this system |
-| Output stage | Customised to fit your needs |
+- **Base stage** - Required
+- **Modular stage**
+- **Output stage**
 
-<br><br><br><br>
+I am planning another modular stage that uses a **Cycloidal drive** 👀
 
-## Table of contents:
-- [Gearbox breakdown](##gearbox_breakdown)
-- [Print configuration](##print_configuration)
+<br>
 
-<br><br><br>
+## ⚙️ Technical Specifications
 
-## Gearbox Breakdown
+| Feature | Specification |
+| :--- | :--- |
+| **Compatible Motor** | NEMA 23 frame|
+| **Motor Shaft Spec** | 8mm diameter, Max length 27mm |
+| **Gear Architecture** | Modular planetary stage system |
+| **Reduction Ratios** | Single stage: `3:1` | Dual stage: `9:1` | Triple stage: `27:1` |
+| **Fasteners** | M2 screws & M2 heat-set inserts |
+| **Bearings** | 608ZZ bearings ($8 \times 22 \times 7\text{ mm}$) |
+
+<br>
+
+## 🪛 Gearbox Breakdown
 
 <br><br>
 
@@ -61,4 +77,4 @@ This modular gearbox consists of **3 main parts:**
         <img width="60%" alt="Exploded" src="https://github.com/user-attachments/assets/c48e2b5c-b700-403b-a6da-dcb4e41e4b4e" />
 </p>
 
-## Print configuration
+## Print configuration WIP
