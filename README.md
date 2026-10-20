@@ -8,6 +8,7 @@
 <p align="center">
         <img width="80%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26"/>
 </p>
+
 <div align="center">
         
 A 3D-printable, high-torque modular planetary gearbox system designed for **robotics and DIY automation.**
@@ -28,6 +29,7 @@ Compatible with **NEMA 23** motors.
 
 <br>
 
+---
 
 ### Table of contents:
 - [Introduction](#introduction)
@@ -35,7 +37,9 @@ Compatible with **NEMA 23** motors.
 - [Technical Specification](#technical_specification)
 - [Gearbox breakdown](#gearbox_breakdown)
 
-<br><br>
+---
+
+<br>
 
 ## Introduction
 Built as a fun engineering project to test the capability of **3D printed modular stages** for a planetary gearbox, while maintaining a **small form-factor**.
