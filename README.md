@@ -56,12 +56,14 @@ This modular gearbox consists of **3 main parts:**
 - **Modular stage**
 - **Output stage**
 
-I am planning another modular stage that uses a **Cycloidal drive** 👀
+> I am planning another modular stage that uses a **Cycloidal drive** 👀
 
 <br>
 
 ## Technical Specifications
 
+<div align="center">
+        
 | Feature | Specification |
 | :--- | :--- |
 | **Compatible Motor** | NEMA 23 frame|
@@ -70,6 +72,8 @@ I am planning another modular stage that uses a **Cycloidal drive** 👀
 | **Reduction Ratios** | Single stage: `3:1` | Dual stage: `9:1` | Triple stage: `27:1` |
 | **Fasteners** | M2 screws & M2 heat-set inserts |
 | **Bearings** | 608ZZ bearings ($8 \times 22 \times 7\text{ mm}$) |
+
+</div>
 
 <br>
 
