@@ -29,22 +29,22 @@ Compatible with **NEMA 23** motors.
 <br>
 
 
-### 🧾 Table of contents:
-- [📜 Introduction](#introduction)
-- [🤔 How it works](#how_it_works)
-- [⚙️ Technical Specification](#technical_specification)
-- [🪛 Gearbox breakdown](#gearbox_breakdown)
+### Table of contents:
+- [Introduction](#introduction)
+- [How it works](#how_it_works)
+- [Technical Specification](#technical_specification)
+- [Gearbox breakdown](#gearbox_breakdown)
 
 <br><br>
 
-## 📜 Introduction
+## Introduction
 Built as a fun engineering project to test the capability of **3D printed modular stages** for a planetary gearbox, while maintaining a **small form-factor**.
 - **Designed in Solidworks**
 - **Printed in ABS**
 
 <br>
 
-## 🤔 How it works
+## How it works
 
 This modular gearbox consists of **3 main parts:**
 
@@ -56,7 +56,7 @@ I am planning another modular stage that uses a **Cycloidal drive** 👀
 
 <br>
 
-## ⚙️ Technical Specifications
+## Technical Specifications
 
 | Feature | Specification |
 | :--- | :--- |
@@ -69,7 +69,7 @@ I am planning another modular stage that uses a **Cycloidal drive** 👀
 
 <br>
 
-## 🪛 Gearbox Breakdown
+## Gearbox Breakdown
 
 <br><br>
 
