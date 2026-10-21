@@ -1,6 +1,6 @@
 <div align="center">
         
-## 3D Printed Stackable Gearbox ⚙️
+## 3D Printed Modular Gearbox ⚙️
 </div>
 
 <br>
