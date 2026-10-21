@@ -60,8 +60,6 @@ This modular gearbox consists of **3 main parts:**
 - **Modular stage**
 - **Output stage**
 
-<br>
-
 <div align="center">
 
 ### Technical Specifications
@@ -71,24 +69,21 @@ This modular gearbox consists of **3 main parts:**
 | **Printed Material** | ABS |
 | | |
 | **Compatible Motor** | NEMA 23 frame|
-| **Motor Shaft** | $8$ mm diameter, Max length $27$ mm |
+| **Motor Shaft** | $8mm$ OD, $27mm$ Max Length |
 | | |
-| **Gear Architecture** | Modular planetary stage system |
-| **Reduction Ratios** | Per stage: `4.615:1` |
-
-<br>
+| **Gear Architecture** | Planetary stage system |
 
 ### Planetary system
 
 | Type | Teeth | Amount |
 | --- | --- | --- |
-| **Internal** | 47 |  |
-| **Sun** | 13 |  |
-| **Planet** | 17 | 3 |
+| **Internal** | $47$ |  |
+| **Sun** | $13$ |  |
+| **Planet** | $17$ | $3$ |
 | | | |
-| **Module Number** |  | 0.93 |
+| **Module Number** |  | $0.93$ |
 | | | |
-| **Ratio** | | Per stage: `4.615:1` |
+| **Ratio (Per stage)** | | $4.615:1$ |
 
 </div>
 
