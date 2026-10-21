@@ -6,7 +6,8 @@
 <br>
 
 <p align="center">
-        <img width="80%" alt="Title3" src="https://github.com/user-attachments/assets/ad6c6f7b-e199-4be4-ad06-3d3264254d26"/>
+        <img width="80%" alt="Title_Light" src="https://github.com/user-attachments/assets/31b918f9-25d2-4012-86c7-cd4ae6839da4#gh-light-mode-only" />
+        <img width="80%" alt="Title_Dark" src="https://github.com/user-attachments/assets/d6699bf1-acf1-4c29-a087-e45d440a396a#gh-dark-mode-only" />
 </p>
 
 <div align="center">
@@ -20,7 +21,8 @@ Compatible with **NEMA 23** motors.
 <br>
 
 <p align="left">
-        <img width="40%" alt="Horizontal_5" src="https://github.com/user-attachments/assets/bde3c76d-7474-4b57-a0f2-e468e4dc255e" />
+        <img width="40%" alt="Horizontal_5_Light" src="https://github.com/user-attachments/assets/7f29734f-ee41-4fc3-a1ee-f25785372f8d#gh-light-mode-only" />
+        <img width="40%" alt="Horizontal_5_Dark" src="https://github.com/user-attachments/assets/104e5f26-e96c-4d71-a37e-31f981c40824#gh-dark-mode-only" />
 </p>
 
 <p align="center">
