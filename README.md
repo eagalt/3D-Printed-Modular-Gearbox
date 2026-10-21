@@ -46,9 +46,10 @@ Compatible with **NEMA 23** motors.
 <br>
 
 ## Introduction
-Built as a fun engineering project to test the capability of **3D printed modular stages** for a planetary gearbox, while maintaining a **small form-factor**.
-- **Designed in Solidworks**
-- **Printed in ABS**
+
+Built as a fun engineering project, this **modular gearbox** was designed to test the **capability of modular stages**.
+
+These modular stages are made with a **small form-factor** in mind to achieve a high reduction in a smaller space than normal.
 
 <br>
 
@@ -60,7 +61,7 @@ This modular gearbox consists of **3 main parts:**
 - **Modular stage**
 - **Output stage**
 
-> I am planning another modular stage that uses a **Cycloidal drive** 👀
+As of now it's only a planetary system. I plan on implementing a **Cyloidal drive** system soon.
 
 <br>
 
@@ -74,19 +75,9 @@ This modular gearbox consists of **3 main parts:**
 | **Motor Shaft Spec** | 8mm diameter, Max length 27mm |
 | **Gear Architecture** | Modular planetary stage system |
 | **Reduction Ratios** | Single stage: `3:1` | Dual stage: `9:1` | Triple stage: `27:1` |
-| **Fasteners** | M2 screws & M2 heat-set inserts |
-| **Bearings** | 608ZZ bearings ($8 \times 22 \times 7\text{ mm}$) |
 
 </div>
 
 <br>
-
-## Gearbox Breakdown
-
-<br><br>
-
-<p align="center">
-        <img width="60%" alt="Exploded" src="https://github.com/user-attachments/assets/c48e2b5c-b700-403b-a6da-dcb4e41e4b4e" />
-</p>
 
 ## Print configuration WIP
