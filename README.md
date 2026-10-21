@@ -38,12 +38,10 @@ Compatible with **NEMA 23** motors.
 ### Table of contents:
 - [Introduction](#introduction)
 - [How it works](#how_it_works)
-- [Technical Specification](#technical_specification)
+  - [Technical Specification](#technical_specification)
 - [Gearbox breakdown](#gearbox_breakdown)
 
 ---
-
-<br>
 
 ## Introduction
 
@@ -51,9 +49,10 @@ Built as a fun engineering project, this **modular gearbox** was designed to tes
 
 These modular stages are made with a **small form-factor** in mind to achieve a high reduction in a smaller space than normal.
 
-<br>
-
 ## How it works
+
+
+As of now it's only a planetary system. I plan on implementing a **Cyloidal drive** system soon.
 
 This modular gearbox consists of **3 main parts:**
 
@@ -61,23 +60,36 @@ This modular gearbox consists of **3 main parts:**
 - **Modular stage**
 - **Output stage**
 
-As of now it's only a planetary system. I plan on implementing a **Cyloidal drive** system soon.
-
 <br>
-
-## Technical Specifications
 
 <div align="center">
+
+### Technical Specifications
         
 | Feature | Specification |
-| :--- | :--- |
+| --- | --- |
+| **Printed Material** | ABS |
+| | |
 | **Compatible Motor** | NEMA 23 frame|
-| **Motor Shaft Spec** | 8mm diameter, Max length 27mm |
+| **Motor Shaft** | $8$ mm diameter, Max length $27$ mm |
+| | |
 | **Gear Architecture** | Modular planetary stage system |
-| **Reduction Ratios** | Single stage: `3:1` | Dual stage: `9:1` | Triple stage: `27:1` |
-
-</div>
+| **Reduction Ratios** | Per stage: `4.615:1` |
 
 <br>
+
+### Planetary system
+
+| Type | Teeth | Amount |
+| --- | --- | --- |
+| **Internal** | 47 |  |
+| **Sun** | 13 |  |
+| **Planet** | 17 | 3 |
+| | | |
+| **Module Number** |  | 0.93 |
+| | | |
+| **Ratio** | | Per stage: `4.615:1` |
+
+</div>
 
 ## Print configuration WIP
