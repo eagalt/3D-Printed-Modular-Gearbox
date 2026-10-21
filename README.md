@@ -24,7 +24,7 @@ Compatible with **NEMA 23** motors.
 </p>
 
 <p align="center">
-        <img width="100%" alt="Horizontal_6" src="https://github.com/user-attachments/assets/df4e25fc-167d-4618-9b7c-3a89484886c9" />
+        <img width="100%" alt="Horizontal_6" src="https://github.com/user-attachments/assets/d8cf7c5b-74f1-4a23-9ef8-ed05ead6ff00" />
 </p>
 
 <br>
