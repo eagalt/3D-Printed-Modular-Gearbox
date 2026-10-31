@@ -33,24 +33,19 @@ Compatible with **NEMA 23** motors.
 
 <br>
 
----
-
 ### Table of contents:
 - [Introduction](#introduction)
 - [How it works](#how_it_works)
-  - [Technical Specification](#technical_specification)
+  - [Technical Specifications](#technical_specifications)
 - [Gearbox breakdown](#gearbox_breakdown)
 
 ---
 
 ## Introduction
 
-Built as a fun engineering project, this **modular gearbox** was designed to test the **capability of modular stages**.
-
-These modular stages are made with a **small form-factor** in mind to achieve a high reduction in a smaller space than normal.
+Built as a fun engineering project, this **modular gearbox** was designed to test the **capability of modular stages** of different architectures.
 
 ## How it works
-
 
 As of now it's only a planetary system. I plan on implementing a **Cyloidal drive** system soon.
 
@@ -60,31 +55,40 @@ This modular gearbox consists of **3 main parts:**
 - **Modular stage**
 - **Output stage**
 
+Where each stage applies a **4.615:1 ratio**
+
 <div align="center">
 
-### Technical Specifications
-        
-| Feature | Specification |
-| --- | --- |
-| **Printed Material** | ABS |
-| | |
-| **Compatible Motor** | NEMA 23 frame|
-| **Motor Shaft** | $8mm$ OD, $27mm$ Max Length |
-| | |
-| **Gear Architecture** | Planetary stage system |
+### Stage Design
 
-### Planetary system
-
-| Type | Teeth | Amount |
+| | Teeth | Amount |
 | --- | --- | --- |
-| **Internal** | $47$ |  |
-| **Sun** | $13$ |  |
-| **Planet** | $17$ | $3$ |
+| **Internal** | 47 |  |
+| **Sun** | 13 |  |
+| **Planet** | 17 | 3 |
 | | | |
-| **Module Number** |  | $0.93$ |
-| | | |
-| **Ratio (Per stage)** | | $4.615:1$ |
+| **Module Number** |  | 0.93 |
+| **Ratio (Per stage)** | | 4.615:1 |
 
 </div>
+
+## Technical Specifications
+
+This project was **printed in ABS** on a Bambu Lab X1C.
+> My outer shell was printed in ABS-CF but it's unecessary
+
+<div align="center">
+        
+| Spec | |
+| --- | --- |
+| **Printed Material** | ABS |
+| **Compatible Motor** | NEMA 23 |
+| **Motor Shaft** | 8mm OD, 27mm Max Length |
+
+</div>
+
+## Electronics
+
+
 
 ## Print configuration WIP
