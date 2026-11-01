@@ -47,13 +47,12 @@ Built as a fun engineering project, this **modular gearbox** was designed to tes
 
 ## How it works
 
-As of now it's only a planetary system. I plan on implementing a **Cyloidal drive** system soon.
+This modular gearbox consists of **3 main parts:**  
+<sub>*=required</sub>
 
-This modular gearbox consists of **3 main parts:**
-
-- **Base stage** - Required
+- **Base stage***
 - **Modular stage**
-- **Output stage**
+- **Output stage***
 
 Where each stage applies a **4.615:1 ratio**
 
@@ -72,10 +71,12 @@ Where each stage applies a **4.615:1 ratio**
 
 </div>
 
+> [!NOTE]
+> I plan on implementing a **Cyloidal drive** system soon.
+
 ## Technical Specifications
 
 This project was **printed in ABS** on a Bambu Lab X1C.
-> My outer shell was printed in ABS-CF but it's unecessary
 
 <div align="center">
         
@@ -89,6 +90,14 @@ This project was **printed in ABS** on a Bambu Lab X1C.
 
 ## Electronics
 
+<div align="center">
 
+| Part | Image | Function |
+| --- | --- | --- |
+| **TB6600** | <img width="100" alt="TB6600-Stepper-Motor-Driver-1-2366261077" src="https://github.com/user-attachments/assets/00fd8804-89b6-48a5-8197-880d0544e630" /> | Motor Driver |
+| **ESP32-WROOM-32D** | <img width="100" alt="ESP32WROOM32D" src="https://github.com/user-attachments/assets/58cc57ed-a39e-4660-9ab9-adc7b6bc89e2" /> | Micro Controller |
+| **NEMA 23 Stepper Motor** | <img width="100" alt="nema-23-stepper-motor" src="https://github.com/user-attachments/assets/9ac2278d-cf41-489c-8d5a-76f08e49ae8c" /> | Motor |
+
+</div>
 
 ## Print configuration WIP
