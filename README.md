@@ -35,8 +35,8 @@ Compatible with **NEMA 23** motors.
 
 ### Table of contents:
 - [Introduction](#introduction)
-- [How it works](#how_it_works)
-  - [Technical Specifications](#technical_specifications)
+- [How does it work?](#how_does_it_work?)
+  - [Gear design](#gear_design)
 - [Gearbox breakdown](#gearbox_breakdown)
 
 ---
@@ -45,7 +45,9 @@ Compatible with **NEMA 23** motors.
 
 Built as a fun engineering project, this **modular gearbox** was designed to test the **capability of modular stages** of different architectures.
 
-## How it works
+<br>
+
+## How does it work?
 
 This modular gearbox consists of **3 main parts:**  
 <sub>*=required</sub>
@@ -58,7 +60,7 @@ Where each stage applies a **4.615:1 ratio**
 
 <div align="center">
 
-### Stage Design
+### Gear design
 
 | | Teeth | Amount |
 | --- | --- | --- |
@@ -66,37 +68,39 @@ Where each stage applies a **4.615:1 ratio**
 | **Sun** | 13 |  |
 | **Planet** | 17 | 3 |
 | | | |
-| **Module Number** |  | 0.93 |
-| **Ratio (Per stage)** | | 4.615:1 |
+| **Module Number** |  | **0.93** |
+| **Ratio (Per stage)** | | **4.615:1** |
 
 </div>
 
 > [!NOTE]
 > I plan on implementing a **Cyloidal drive** system soon.
 
-## Technical Specifications
+<br>
 
-This project was **printed in ABS** on a Bambu Lab X1C.
+## Specifications
 
 <div align="center">
-        
-| Spec | |
+
+### Printing
+
+| | Configuration |
 | --- | --- |
 | **Printed Material** | ABS |
-| **Compatible Motor** | NEMA 23 |
-| **Motor Shaft** | 8mm OD, 27mm Max Length |
+| **Printer** | Bambu Lab X1C |
+| **Nozzle Diameter** | 0.4mm |
 
 </div>
 
-## Electronics
-
 <div align="center">
 
-| Part | Image | Function |
-| --- | --- | --- |
-| **TB6600** | <img width="100" alt="TB6600-Stepper-Motor-Driver-1-2366261077" src="https://github.com/user-attachments/assets/00fd8804-89b6-48a5-8197-880d0544e630" /> | Motor Driver |
-| **ESP32-WROOM-32D** | <img width="100" alt="ESP32WROOM32D" src="https://github.com/user-attachments/assets/58cc57ed-a39e-4660-9ab9-adc7b6bc89e2" /> | Micro Controller |
-| **NEMA 23 Stepper Motor** | <img width="100" alt="nema-23-stepper-motor" src="https://github.com/user-attachments/assets/9ac2278d-cf41-489c-8d5a-76f08e49ae8c" /> | Motor |
+### Electronics
+
+| Part | Image | Function | Configuration |
+| --- | --- | --- | --- |
+| **TB6600** | <img width="100" alt="TB6600-Stepper-Motor-Driver-1-2366261077" src="https://github.com/user-attachments/assets/00fd8804-89b6-48a5-8197-880d0544e630" /> | Motor Driver | Micro step setting: **2**<br>Current: **2.5A**<br>Voltage: **24V** |
+| **ESP32-WROOM-32D** | <img width="100" alt="ESP32WROOM32D" src="https://github.com/user-attachments/assets/58cc57ed-a39e-4660-9ab9-adc7b6bc89e2" /> | Micro Controller | |
+| **NEMA 23 Stepper Motor** | <img width="100" alt="nema-23-stepper-motor" src="https://github.com/user-attachments/assets/9ac2278d-cf41-489c-8d5a-76f08e49ae8c" /> | Motor | Shaft OD: **8mm**<br>Shaft length: **27mm** |
 
 </div>
 
