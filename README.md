@@ -82,7 +82,7 @@ Where each stage applies a **4.615:1 ratio**
 
 <div align="center">
 
-### Printing
+### Print configuration
 
 | | Configuration |
 | --- | --- |
@@ -104,4 +104,4 @@ Where each stage applies a **4.615:1 ratio**
 
 </div>
 
-## Print configuration WIP
+## Print settings WIP
